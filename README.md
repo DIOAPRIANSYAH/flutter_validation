@@ -20,10 +20,10 @@ A new Flutter project.
 
 # PRAKTIKUM 2
 
-![image](https://user-images.githubusercontent.com/92065809/236625870-ac3e045f-b3b0-4935-ba65-d19ad905c5bd.png)     ![image](https://user-images.githubusercontent.com/92065809/236625890-c9c89cba-c56d-4d35-8484-1915904fb9ce.png)
+![image](https://user-images.githubusercontent.com/92065809/236625870-ac3e045f-b3b0-4935-ba65-d19ad905c5bd.png)![image](https://user-images.githubusercontent.com/92065809/236625890-c9c89cba-c56d-4d35-8484-1915904fb9ce.png)
 
 
-![image](https://user-images.githubusercontent.com/92065809/236626127-9fc8e750-a75a-405f-9622-d0138931ff83.png)     ![image](https://user-images.githubusercontent.com/92065809/236626158-6f169772-cdc7-4c85-ae11-cdd8998adf5f.png)
+![image](https://user-images.githubusercontent.com/92065809/236626127-9fc8e750-a75a-405f-9622-d0138931ff83.png)![image](https://user-images.githubusercontent.com/92065809/236626158-6f169772-cdc7-4c85-ae11-cdd8998adf5f.png)
 
 ## PENJELASAN :
 
@@ -33,7 +33,7 @@ A new Flutter project.
 
 # PRAKTIKUM 3
 
-![image](https://user-images.githubusercontent.com/92065809/236626253-7486d618-2323-4d72-8e21-5284015580b7.png)     ![image](https://user-images.githubusercontent.com/92065809/236626308-f169ec2d-4bac-4efa-96c7-f9535708c5a9.png)
+![image](https://user-images.githubusercontent.com/92065809/236626253-7486d618-2323-4d72-8e21-5284015580b7.png)![image](https://user-images.githubusercontent.com/92065809/236626308-f169ec2d-4bac-4efa-96c7-f9535708c5a9.png)
 
 ## PENJELASAN :
 
