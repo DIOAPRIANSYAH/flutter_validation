@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## PRAKTIKUM 1
+## PRAKTIKUM 2
+## PRAKTIKUM 3
+
+
 
 This project is a starting point for a Flutter application.
 
